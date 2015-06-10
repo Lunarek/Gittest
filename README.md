@@ -1,2 +1,2 @@
 # Gittest
-this issss to test my git
+this is an updated version to demonstrate the service of git
