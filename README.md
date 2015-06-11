@@ -1,2 +1,2 @@
 # Gittest
-this is an updated version to demonstrate the service of git
+this has been just updated
