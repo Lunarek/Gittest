@@ -1,2 +1,2 @@
 # Gittest
-this has been just updated
+Hello just updated the file.
